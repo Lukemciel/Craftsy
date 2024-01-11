@@ -1,0 +1,25 @@
+header {
+    background-color: #ff4500;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    margin-bottom: 20px;
+}
+
+header img {
+    margin-left: 20px;
+}
+
+header button {
+    background-color: transparent;
+    height: 40px;
+    width: 40px;
+    border-radius: 4px;
+    margin-right: 20px;
+    border: 2px solid #ffffff;
+}
+.burguer-menu i {
+    font-size: 25px ;
+    color: #ffffff;
+}
